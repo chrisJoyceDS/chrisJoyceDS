@@ -17,7 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/christopher-joyce-datascience/" target="blank"><img align="center"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="adampithewan" height="30" width="40" />< img
+      src="https://myawsbucketdsi221.s3.us-east-2.amazonaws.com/linkedin-logo-linkedin-icon-transparent-free-png.webp"
+      alt="mysql" width="40" height="40" /></a>
 </p>
 
 <br>

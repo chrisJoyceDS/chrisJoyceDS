@@ -16,16 +16,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/christopher-joyce-datascience/" target="blank"><img align="center"
-      alt="adampithewan" height="30" width="40" />< img
-      src="https://myawsbucketdsi221.s3.us-east-2.amazonaws.com/linkedin-logo-linkedin-icon-transparent-free-png.webp"
-      alt="mysql" width="40" height="40" /></a>
+ <a href="https://www.linkedin.com/in/christopher-joyce-datascience/" target="blank" rel="noreferrer"> <img src="https://myawsbucketdsi221.s3.us-east-2.amazonaws.com/linkedin-logo-linkedin-icon-transparent-free-png.webp" 
+alt="linkedin" width="40" height="40" /> </a>
 </p>
 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+<p align="left">
      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> </a>  <img

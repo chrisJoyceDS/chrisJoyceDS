@@ -26,8 +26,10 @@ alt="linkedin" width="40" height="40" /> </a>
 <p align="left">
      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a>  <img
+      alt="mysql" width="40" height="40" /> </a> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> </p>
+      width="40" height="40" /> </a> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r"
+      width="40" height="40" /> </a> </p></p>
 
 <br>

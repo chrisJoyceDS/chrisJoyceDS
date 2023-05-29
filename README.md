@@ -32,6 +32,8 @@ alt="linkedin" width="40" height="40" /> </a>
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r"
       width="40" height="40" /> <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="r"
+      width="40" height="40" /> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-original.svg" alt="scikit-learn"
       width="40" height="40" /></a> </p></p>
 
 <br>

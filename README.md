@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **cjjoyce216@gmail.com**
 
-- ⚡ Hobbies :- Cooking, Painting/Drawing, Music (listening and creating!)
+- ⚡ Hobbies :- Cooking, Painting/Drawing, Music, and exploring all kinds of data for different insights!
 
 <br>
 

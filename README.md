@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chris Joyce</h1>
+<h1 align="center">Hello 👋, I'm Chris Joyce</h1>
 <h3 align="center">Ex-GoldmanSachs, Ex-Unqork, Graduate from General Assembly's DSIR.</h3>
  
 <br>

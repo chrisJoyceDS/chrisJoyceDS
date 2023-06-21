@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Chris Joyce</h1>
-<h3 align="center">Ex-GoldmanSachs, Ex-Unqork, Graduate from General Assembly's DSIR.</h3>
- 
+
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
